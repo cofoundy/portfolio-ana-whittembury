@@ -15,7 +15,7 @@ export const siteConfig = {
   ],
 
   // Hero tagline (short, impactful)
-  tagline: "Bridging data, technology, and strategy at Europe's leading student organizations.",
+  tagline: "Exploring data-driven growth and the intersection of analytics, technology, and business strategy.",
 
   social: {
     email: "aswhittemburya@gmail.com",
@@ -24,7 +24,7 @@ export const siteConfig = {
   },
 
   aboutMe:
-    "Peruvian-born Business Analytics student at Maastricht University, currently serving as IT & Academic Commissioner on the executive board of SCOPE Maastricht — Europe's second-largest student association with 5,000+ members and a €600,000+ annual budget. I specialize in building data infrastructure, optimizing digital systems, and leading cross-functional teams. From coordinating Model United Nations conferences for 350+ participants to architecting cloud-based data foundations in Microsoft Fabric, I thrive at the intersection of technology and organizational impact.",
+    "Business Analytics student at Maastricht University interested in how data shapes business decisions and drives organizational growth. I thrive at the intersection of data strategy and organizational impact, building data infrastructure, optimizing systems, and driving business growth through actionable insights. I work with SQL, Python, Power BI, and Microsoft Fabric. My experience spans project management, strategic problem-solving, and cross-functional collaboration across tech and business contexts. Currently exploring how consumer data can inform smarter business strategy.",
 
   skills: [
     "Python",
